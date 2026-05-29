@@ -1,2 +1,2 @@
 # Baseball
-$$\text{Batting Average} = Hits/At-Bats$$
+$$\text{Batting Average} = \frac{\text{Hits}}{\text{At-Bats}}$$
